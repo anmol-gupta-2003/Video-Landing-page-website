@@ -207,6 +207,9 @@ section{
 
 
 @media (max-width: 1040px){
+    *{
+        box-sizing: content-box;
+    }
     header{
         padding: 12px 20px;
     }
